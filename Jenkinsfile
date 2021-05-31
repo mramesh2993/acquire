@@ -1,1 +1,1 @@
-print "o world"
+print "world"
